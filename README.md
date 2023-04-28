@@ -1,3 +1,3 @@
 # LibrarySystem
 
-School Project only
+School Project
